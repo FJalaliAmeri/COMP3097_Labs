@@ -11,3 +11,5 @@
 #### Lab 5 Completed
 
 #### Lab Test 1 Completed
+
+### Lab 6 Completed
